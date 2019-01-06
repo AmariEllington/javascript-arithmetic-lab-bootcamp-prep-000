@@ -20,7 +20,7 @@ function divide (a, b){
   return number
 }
 
-function increments (n){
-  number = number++
+function inc(n){
+  number = a + 1
   return number
 }
