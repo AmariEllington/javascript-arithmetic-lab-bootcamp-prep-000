@@ -19,3 +19,8 @@ function divide (a, b){
   number = a / b
   return number
 }
+
+function increments (n){
+  number = number++
+  return number 
+}
