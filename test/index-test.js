@@ -7,9 +7,6 @@ beforeEach(function() {
 
 it('add(a, b) adds two numbers and returns the result', function() {
   expect(add(a, b)).toEqual(a + b)
-
-  number = a + b;
-  return number;
 })
 
 
