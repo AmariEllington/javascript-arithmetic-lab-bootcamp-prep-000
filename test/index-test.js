@@ -9,7 +9,7 @@ it('add(a, b) adds two numbers and returns the result', function() {
   expect(add(a, b)).toEqual(a + b)
 })
 
-var number = a + b 
+var number = a + b
 
  number = 1 + 2
 
