@@ -22,5 +22,5 @@ function divide (a, b){
 
 function increments (n){
   number = number++
-  return number 
+  return number
 }
